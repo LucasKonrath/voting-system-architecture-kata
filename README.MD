@@ -68,13 +68,12 @@ Recommended Reading: http://diego-pacheco.blogspot.com/2018/01/stability-princip
 
 ### 🏗️ 4. Overall Diagrams
 
-Here there will be a bunch of diagrams, to understand the solution.
-```
 🗂️ 4.1 Overall architecture: Show the big picture, relationship between macro components.
 ![alt text](image.png)
+
 🗂️ 4.2 Deployment: Show the infra in a big picture. 
 🗂️ 4.3 Use Cases: Make 1 macro use case diagram that list the main capability that needs to be covered. 
-```
+
 Recommended Reading: http://diego-pacheco.blogspot.com/2020/10/uml-hidden-gems.html
 
 ### 🧭 5. Trade-offs
